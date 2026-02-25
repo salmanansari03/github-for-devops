@@ -1,0 +1,22 @@
+ls
+  228  cd github-for-devops
+  229  ls
+  230  clear
+  231  shutdown -h
+  232  shutdown -c
+  233  sudo shutdown
+  234  shutdown -c
+  235  exit
+  236  ls
+  237  clear
+  238  exit
+  239  ls
+  240  cd git
+  241  ls
+  242  cd github-for-devops
+  243  ls
+  244  cat git_commands.txt
+  245  cat testing.py
+  246  vi testing.py
+  247  vi git_commands.txt
+
