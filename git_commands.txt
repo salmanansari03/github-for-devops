@@ -24,3 +24,5 @@
   232  shutdown -c
   233  sudo shutdown
   234  shutdown -c
+this is some new changes .
+
